@@ -1,0 +1,50 @@
+.green{
+    background-color: green;
+}
+
+.grey {
+    background-color: grey;    
+}
+  
+li {
+  float:left;
+}
+
+li a {
+  display: block;
+  color: aliceblue;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: blue;
+}
+
+.booking {
+  
+  height: 150px;
+  left: 250px;
+  position: fixed;
+  top: 400px;
+  width: 1000px;  
+}
+
+.titulobooking {
+  left: 475px;
+  position: fixed;
+  top: 300px;
+  width: 1000px;
+}
+
+.message {  
+  height: 150px;
+  left: 450px;
+  position: fixed;
+  top: 430px;
+  width: 1000px;  
+}
